@@ -1,0 +1,15 @@
+pipelines:
+  branches:
+    staging:
+      - step:
+          name: Deploy to Staging
+          deployment: staging
+          script:
+            - pipe: atlassian/ftp-deploy:0.3.7
+              variables:
+                USER: $FTP_USERNAME
+                PASSWORD: $FTP_PASSWORD
+                SERVER: $FTP_SERVER
+                REMOTE_PATH: /jobspace.peterthomson.net/public_html
+                DELETE_FLAG: 'false' # Don't delete existing files
+                EXTRA_ARGS: "--exclude=.bitbucket/ --exclude=.git/ --exclude=bitbucket-pipelines.yml --exclude=.gitignore" # Ignore these

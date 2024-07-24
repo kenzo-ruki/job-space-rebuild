@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Jobs advertiser="Greenlight Recruitment" account="30258" username="craig@glr.co.nz" password="Greenlight1@JA" jid="5387" source="nww53ghjw2wepor4lbbwxby5py">
+  <Advertiser jid="3869">
+    <Name>Greenlight Recruitment</Name>
+    <Address>
+      <Line>Unit 2 &amp; 3, 41 Sawyers Arms Rd</Line>
+      <Line>PO Box 5339</Line>
+      <Suburb>Papanui, Christchurch</Suburb>
+      <State>Canterbury</State>
+      <Postcode>8542</Postcode>
+      <Url />
+      <Phone />
+    </Address>
+    <Contact>
+      <FirstName />
+      <LastName />
+      <Email />
+      <Phone />
+    </Contact>
+  </Advertiser>
+  <Job jid="1707663" reference="1470623" datePosted="2024-05-13" dateUpdated="2024-05-12T21:18:23Z">
+    <Title>Reach Truck Operator</Title>
+    <Summary>Please apply if you have valid OSH cert and experience driving Reach Truck.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our clients are leading third party logistics and supply chain companies offering managed warehousing and distribution with bases across Christchurch.<br><br><strong>ABOUT THE ROLE<br></strong>You will have excellent experience driving Reach Truck and be able to pick and pack customer orders accurately and at a good pace as time is critical.<br>You will also be required to do other warehouse duties and heavy lifting will be a part of the role.<br><br>Note: This role is temporary with the opportunity to go permanent for the right person.<br><br><strong>BENEFITS FOR YOU</strong><br> <ul> <li>$26 - $28 depending on experience + 8% holiday pay</li> <li>40 hours per week</li> <li>Temporary to permanent opportunity</li> <li>Monday to Friday</li> </ul> <strong>WHAT ARE WE LOOKING FOR</strong><br> <ul> <li>Must have experience driving Reach Truck</li> <li>OSH Certificate is a MUST (F Certification a bonus)</li> <li>Current warehouse experience</li> <li>Physically fit and comfortable with heavy lifting</li> <li>Able to pass a pre employment drug test</li> <li>A Ministry of Justice check will also be part of the process</li> </ul> <strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song.<br><br><em><strong>NOT QUITE YOU?</strong><br>Always wondered why you hear about your dream job after its gone? Over 70% of our roles are filled from our database of candidates - if you have a quality track record with proven success in sales make sure you're registered with us so you don't miss out on these opportunities.</em>]]></Description>
+    <BulletPoints>
+      <BulletPoint>Temp to perm opportunity</BulletPoint>
+      <BulletPoint>No weekend work</BulletPoint>
+      <BulletPoint>Weekly pay</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>25</MinValue>
+      <MaxValue>30</MaxValue>
+      <Text>8% holiday pay weekly</Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684858" id="347">Transport &amp; logistics</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1685188" id="359">Warehouse &amp; Distribution</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685766" id="1">Full time</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1707663/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+  <Job jid="1705458" reference="1470619" datePosted="2024-05-07" dateUpdated="2024-05-07T04:25:24Z">
+    <Title>Forklift Operators</Title>
+    <Summary>Whether you're trying to gain experience or ready to hit the ground running, apply now for our ongoing recruitment for clients around Christchurch.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our clients range from third party logistics supply chain companies to small friendly warehouse, to manufacturing &amp; production based across Christchurch.<br><br><strong>ABOUT THE ROLE<br></strong>You will have excellent forklift driving experience and be able to pick and pack customer orders accurately and at a good pace as time is critical.<br>You will also be required to do other warehouse duties and heavy lifting will be a part of the role.<br><br><strong>BENEFITS FOR YOU</strong><br> <ul> <li>$25 - $27 depending on experience + 8% holiday pay</li> <li>Full time hours</li> <li>Temporary to permanent opportunity</li> <li>Monday to Friday</li> </ul> <strong>WHAT ARE WE LOOKING FOR</strong><br> <ul> <li>OSH Certificate is a MUST (F Certification a bonus)</li> <li>Current warehouse experience</li> <li>Reliable and can provide references</li> <li>Physically fit and comfortable with lifting up to 25kg</li> <li>Able to pass a pre employment drug test</li> <li>Ministry of Justice check&nbsp;</li> </ul> <strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song.<br><br><strong>NOT QUITE YOU?<br></strong>Always wondered why you hear about your dream job after its gone? Over 70% of our freight &amp; logistics roles are filled without being advertised - if you're in the industry make sure you're registered with us so you don't miss out on these opportunities.]]></Description>
+    <BulletPoints>
+      <BulletPoint>Temp to perm opportunity</BulletPoint>
+      <BulletPoint>No weekend work</BulletPoint>
+      <BulletPoint>Weekly pay</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>25</MinValue>
+      <MaxValue>30</MaxValue>
+      <Text>and 8% holiday pay weekly</Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684858" id="347">Transport &amp; logistics</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1685188" id="359">Warehouse &amp; Distribution</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685772" id="7">Temporary</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1705458/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+  <Job jid="1704497" reference="1449747" datePosted="2024-05-06" dateUpdated="2024-05-06T04:43:33Z">
+    <Title>Accounts Payable Admin</Title>
+    <Summary>Accounts Payable and admin cover for 5 months. Please apply if you have experience with XERO and available immediately.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our client is a local high school, looking for temp cover for maternity leave.<br><br> <strong>ABOUT THE ROLE<br></strong>The role covers accounts payable and general office admin duty in a friendly supportive team.&nbsp;<br> <ul> <li>Manage accounts payable processes: invoice processing, payment preparation etc.</li> <li>Ensure accurate financial data entry into Xero and other accounting software.</li> <li>Perform general admin duties: filing, data entry, office supplies maintenance.</li> <li>Assist other admin team members as needed.</li> <li>Collaborate effectively in a team environment.</li> </ul> <strong>ABOUT YOU</strong><br> <ul> <li>Previous office admin experience.</li> <li>Proficiency in Xero is a MUST.</li> <li>Strong organisational skills and attention to detail.</li> <li>Excellent communication and interpersonal abilities.</li> <li>Proactive problem-solving skills.</li> <li>Commitment to confidentiality and professionalism.</li> </ul> <br><strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song, or call 03 963 1110 to discuss your suitability for the role.<br><br><strong>NOT QUITE YOU?<br></strong>Always wondered why you hear about your dream job after its gone? Over 70% of our roles are filled without being advertised - if you're in the industry make sure you're registered with us so you don't miss out on these opportunities.]]></Description>
+    <BulletPoints>
+      <BulletPoint>Immediate start</BulletPoint>
+      <BulletPoint>Mon - Friday for 5 months</BulletPoint>
+      <BulletPoint>Part time with early finish</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>28</MinValue>
+      <MaxValue>30</MaxValue>
+      <Text></Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684827" id="1">Accounting</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1684863" id="4">Accounts Payable</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685768" id="3">Fixed term</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1704497/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+  <Job jid="1704686" reference="1074949" datePosted="2024-05-06" dateUpdated="2024-05-06T01:07:39Z">
+    <Title>Warehouse/Factory Labourers</Title>
+    <Summary>We are looking for motivated warehouse &amp; factory labourers. Apply now to join a supportive team.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our clients include supply chain companies and production lines in manufactures.&nbsp;<br><br><strong>ABOUT THE ROLE<br></strong>As a Labourer you will be ensuring the warehouse and factory operate efficiently. Duties will involve devanning containers, palletizing freight and supervising production lines ensuring the work place clean and tidy.<br><br>These are temporary roles which may go permanent for the right candidate.&nbsp;<br><br><strong>BENEFITS FOR YOU</strong><br> <ul> <li>Immediate start for the right person</li> <li>Weekly pay</li> <li>40 hours per week</li> </ul> <strong>LOOKING FOR</strong><br> <ul> <li>Able to lift up to 25kg</li> <li>Great attitude and reliability</li> <li>Reliable transport&nbsp;</li> </ul> Please note: Successful candidates must be able to pass a pre-employment drugs test and are subject to a Ministry of Justice convictions check.<br><br><strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song.<br><br><strong>NOT QUITE YOU?</strong><br>Always wondered why you hear about your dream job after its gone? Over 70% of our freight &amp; logistics roles are filled without being advertised - if you're in the industry make sure you're registered with us, so you don't miss out on these opportunities.]]></Description>
+    <BulletPoints>
+      <BulletPoint>Weekly pay</BulletPoint>
+      <BulletPoint>No Weekend work</BulletPoint>
+      <BulletPoint>Temp to perm</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>23</MinValue>
+      <MaxValue>25</MaxValue>
+      <Text></Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684858" id="347">Transport &amp; logistics</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1685188" id="359">Warehouse &amp; Distribution</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685772" id="7">Temporary</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1704686/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+  <Job jid="1701920" reference="1095579" datePosted="2024-04-30" dateUpdated="2024-04-29T20:54:57Z">
+    <Title>Machine Operator</Title>
+    <Summary>If you're mechanical minded and are keen to work early morning or late night. Apply now.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our clients in Christchurch sites are looking for Machine Operators across all industries. Please note this is an open application.&nbsp;<br><br><strong>ABOUT THE ROLE<br></strong>As the machine operator, you will be required to operate machines such as Guillotines and Bandsaws. You will be operating state of the art machinery in a clean environment, producing high quality products. Experience in this field would be desirable but not required for the right person.<br><br><strong>FOR YOU</strong><br> <ul> <li>Monday - Friday</li> <li>Small supportive team</li> <li>Onsite parking</li> <li>Temp to perm for the right candidate</li> </ul> <strong>LOOKING FOR</strong><br> <ul> <li>Current OSH certificate is preferable</li> <li>Experience operating Machines &amp; mechanical minded</li> <li>Physically fit &ndash; heavy lifting required 25kg</li> <li>Reliable Transport&nbsp;</li> </ul> Please note:&nbsp; Successful candidates must be able to pass a pre-employment drugs test and are subject to a Ministry of Justice convictions check.<br><br><br><strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song.<br><br><strong>NOT QUITE YOU?<br></strong>Always wondered why you hear about your dream job after its gone? Over 70% of our freight &amp; logistics roles are filled without being advertised - if you're in the industry make sure you're registered with us so you don't miss out on these opportunities.]]></Description>
+    <BulletPoints>
+      <BulletPoint>Monday - Friday</BulletPoint>
+      <BulletPoint>Weekly pay</BulletPoint>
+      <BulletPoint>Immediate start</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>24</MinValue>
+      <MaxValue>26</MaxValue>
+      <Text>$24-$26 + 8% holiday pay</Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684849" id="214">Manufacturing &amp; Operations</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1685056" id="218">Machine Operators</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685766" id="1">Full time</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1701920/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+  <Job jid="1699596" reference="1470622" datePosted="2024-04-24" dateUpdated="2024-04-23T23:02:00Z">
+    <Title>Reach Truck Operator</Title>
+    <Summary>Please apply if you have valid OSH cert and experience driving Reach Truck.</Summary>
+    <Description><![CDATA[<strong>ABOUT THE COMPANY<br></strong>Our clients are leading third party logistics and supply chain companies offering managed warehousing and distribution with bases across Christchurch.<br><br><strong>ABOUT THE ROLE<br></strong>You will have excellent experience driving Reach Truck and be able to pick and pack customer orders accurately and at a good pace as time is critical.<br>You will also be required to do other warehouse duties and heavy lifting will be a part of the role.<br><br>Note: This role is temporary with the opportunity to go permanent for the right person.<br><br><strong>BENEFITS FOR YOU</strong><br> <ul> <li>$26 - $28 depending on experience + 8% holiday pay</li> <li>40 hours per week</li> <li>Temporary to permanent opportunity</li> <li>Monday to Friday</li> </ul> <strong>WHAT ARE WE LOOKING FOR</strong><br> <ul> <li>Must have experience driving Reach Truck</li> <li>OSH Certificate is a MUST (F Certification a bonus)</li> <li>Current warehouse experience</li> <li>Physically fit and comfortable with heavy lifting</li> <li>Able to pass a pre employment drug test</li> <li>A Ministry of Justice check will also be part of the process</li> </ul> <strong>SOUND LIKE YOU?<br>ARE YOU READY TO GO PLACES WITH YOUR CAREER?</strong><br>Apply via the link with an updated CV and cover letter to Sophie Song.<br><br><em><strong>NOT QUITE YOU?</strong><br>Always wondered why you hear about your dream job after its gone? Over 70% of our roles are filled from our database of candidates - if you have a quality track record with proven success in sales make sure you're registered with us so you don't miss out on these opportunities.</em>]]></Description>
+    <BulletPoints>
+      <BulletPoint>Temp to perm opportunity</BulletPoint>
+      <BulletPoint>No weekend work</BulletPoint>
+      <BulletPoint>Weekly pay</BulletPoint>
+    </BulletPoints>
+    <Salary period="PerHour">
+      <MinValue>25</MinValue>
+      <MaxValue>30</MaxValue>
+      <Text>8% holiday pay weekly</Text>
+    </Salary>
+    <Classifications>
+      <Classification jid="24116" name="Category" vid="1684858" id="347">Transport &amp; logistics</Classification>
+      <Classification jid="24117" name="Sub Category" vid="1685188" id="359">Warehouse &amp; Distribution</Classification>
+      <Classification jid="24118" name="Region" vid="1685201" id="91">Canterbury</Classification>
+      <Classification jid="24119" name="Location" vid="1685237" id="93">Christchurch</Classification>
+      <Classification jid="24120" name="Allowed Countries" vid="1685764" id="95">New Zealand</Classification>
+      <Classification jid="24122" name="Job Types" vid="1685766" id="1">Full time</Classification>
+      <Classification jid="24123" name="Hide Salary" vid="1685774">No</Classification>
+    </Classifications>
+    <Fields>
+      <Field jid="24121" name="Job Postcode"></Field>
+    </Fields>
+    <Apply>
+      <EmailTo>sophie@glr.co.nz</EmailTo>
+      <Url>https://apply.jobadder.com/au2/3869/1699596/nww53ghjw2wepor4lbbwxby5py</Url>
+    </Apply>
+  </Job>
+</Jobs>

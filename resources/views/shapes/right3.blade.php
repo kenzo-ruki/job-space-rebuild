@@ -1,0 +1,1 @@
+<img class="hidden md:block absolute bottom-[20px] -right-[80px] h-[500px] w-auto z-0" src="{{ asset('/img/spaceman_right.svg') }}" alt="wavy background">

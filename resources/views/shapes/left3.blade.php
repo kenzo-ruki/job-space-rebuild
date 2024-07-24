@@ -1,0 +1,1 @@
+<img class="hidden md:block absolute top-[200px] -left-[80px] h-[370px] w-auto z-0" src="{{ asset('/img/left_planets1.svg') }}" alt="wavy background">

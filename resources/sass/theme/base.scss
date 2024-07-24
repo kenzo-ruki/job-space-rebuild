@@ -1,0 +1,170 @@
+@font-face {
+    font-family: 'ITC Avant Garde Std Md';
+    src: url('../../public/fonts/ITCAvantGardeStd-Bold.eot');
+    src: local('ITC Avant Garde Gothic Std Bold'), local('ITCAvantGardeStd-Bold'),
+        url('../../public/fonts/ITCAvantGardeStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../public/fonts/ITCAvantGardeStd-Bold.woff2') format('woff2'),
+        url('../../public/fonts/ITCAvantGardeStd-Bold.woff') format('woff'),
+        url('../../public/fonts/ITCAvantGardeStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ITC Avant Garde Std Bk';
+    src: url('../../public/fonts/ITCAvantGardeStd-Demi.eot');
+    src: local('ITC Avant Garde Gothic Std Demi'), local('ITCAvantGardeStd-Demi'),
+        url('../../public/fonts/ITCAvantGardeStd-Demi.eot?#iefix') format('embedded-opentype'),
+        url('../../public/fonts/ITCAvantGardeStd-Demi.woff2') format('woff2'),
+        url('../../public/fonts/ITCAvantGardeStd-Demi.woff') format('woff'),
+        url('../../public/fonts/ITCAvantGardeStd-Demi.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ITC Avant Garde Gothic';
+    src: local('ITC Avant Garde Gothic Bk'), local('ITC-Avant-Garde-Gothic-Bk'),
+        url('../../public/fonts/ITCAvantGardeStd-Bk.eot') format('embedded-opentype'),
+        url('../../public/fonts/ITCAvantGardeStd-Bk.woff2') format('woff2'),
+        url('../../public/fonts/ITCAvantGardeStd-Bk.woff') format('woff'),
+        url('../../public/fonts/ITCAvantGardeStd-Bk.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@layer base {
+    * {
+        font-family: 'ITC Avant Garde Gothic', 'ITC Avant Garde Std Md', sans-serif !important;
+    }
+    h1 {
+      @apply text-4xl;
+    }
+    h2 {
+      @apply text-3xl;
+    }
+    h3 {
+      @apply text-2xl;
+    }
+    h4 {
+      @apply text-xl;
+    }
+    h5 {
+      @apply text-lg;
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+      @apply font-bold;
+      font-family: 'ITC Avant Garde Std Md', 'ITC Avant Garde Std Bk', sans-serif;
+    }
+    .page {
+        h1 {
+          @apply text-5xl; 
+        }
+        h2 {
+          @apply text-center;
+        }
+    }
+}
+select option:hover,
+select option:focus,
+select option:active,
+select option:checked
+{
+    @apply bg-blue-violet-700 #{!important};
+    @apply text-white #{!important};
+}
+.bg-main-blue {
+  background-color: theme('colors.main-blue');
+}
+.bg-main-red {
+  background-color: theme('colors.main-red');
+}
+.job-search,
+.banner {
+  background: url(/img/space1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow: inset 0px 10px 10px 5px rgba(15, 23, 42, 0.1), inset 0px -10px 10px 5px rgba(15, 23, 42, 0.1);
+  position: relative;
+  z-index: 1;
+  &::before {
+    content:"";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)); // Added gradient here
+    z-index: 10;
+  }
+  div, h1 {
+    position: relative;
+    z-index: 20;
+  }
+}
+.employer-features {
+  background: url(/img/section_bg_03.png) repeat-x #5548cd;
+}
+.stars {
+  background: url(/img/stars.png) no-repeat center center fixed #0f172a; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  box-shadow: inset 0px 10px 10px 5px rgba(15, 23, 42, 0.1), inset 0px -10px 10px 5px rgba(15, 23, 42, 0.1);
+  position: relative;
+  z-index: 1;
+  &::before {
+    content:"";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+  }
+  div {
+    position: relative;
+    z-index: 20;
+  }
+}
+.rate,
+.page,
+.blog {
+  .body{
+    ul {
+      @apply list-disc;
+      @apply ml-4;
+    }
+    ol {
+      @apply list-decimal;
+      @apply ml-4;
+    }
+    blockquote {
+      @apply border-l-4;
+      @apply border-slate-200;
+      @apply pl-4;
+      @apply py-0;
+      @apply italic;
+    }
+  }
+}
+.tab-panel-label.active:not(.bg-cerise-red-500) {
+    @apply bg-white;
+}
+#resume-form{
+    input[disabled], 
+    select[disabled],
+    textarea[disabled] {
+        background-color: none !important;
+        opacity: 1.0 !important;
+    }
+}
